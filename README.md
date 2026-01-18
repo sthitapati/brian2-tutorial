@@ -1,5 +1,7 @@
 # Brian2 Tutorials
 
+This tutorial is generated using gemini-agent for my personal learning.
+
 A comprehensive set of tutorials for the [Brian2](https://briansimulator.org/) spiking neural network simulator.
 
 ## Getting Started
