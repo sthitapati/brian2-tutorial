@@ -1,5 +1,6 @@
 __pycache__/
 *.png
+!docs/images/*.png
 *.pyc
 .DS_Store
 .idea/
